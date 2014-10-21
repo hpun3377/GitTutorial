@@ -2,6 +2,8 @@
 
 import UIKit
 
+var head = "head"
+
 var str = "Hello, playground"
 var str2 = "와우"
 var str1 = "Wow!"
