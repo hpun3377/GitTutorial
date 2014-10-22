@@ -10,4 +10,4 @@ var str1 = "Wow!"
 var str3 = "충돌!"
 var str5 = "원격저장소!"
 var str4 = "충돌해결!"
-
+var str123 = "동기화!"
